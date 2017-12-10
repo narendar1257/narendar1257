@@ -1,1 +1,1 @@
-This is second new file in FirstBranch
+This is second new file in FirstBranch, modified to check diff command
